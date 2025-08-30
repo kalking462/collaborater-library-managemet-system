@@ -1,1 +1,42 @@
 
+{
+    "books": [
+        {
+            "title": "Algebra Basics",
+            "author": "John Smith",
+            "subject": "Math"
+        },
+        {
+            "title": "English Grammar",
+            "author": "Jane Doe",
+            "subject": "English"
+        },
+        {
+            "title": "Physics Fundamentals",
+            "author": "Albert Newton",
+            "subject": "Physics"
+        },
+        {
+            "title": "Organic Chemistry",
+            "author": "Marie Curie",
+            "subject": "Chemistry"
+        },
+        {
+            "title": "magnetism",
+            "author": "tesla",
+            "subject": "physics"
+        }
+    ],
+    "borrowed_books": {
+        "Physics Fundamentals": {
+            "user": "Mekbi",
+            "author": "Albert Newton",
+            "subject": "Physics"
+        },
+        "structure of atom": {
+            "user": "kal",
+            "author": "Dalton",
+            "subject": "Chemistry"
+        }
+    }
+}
